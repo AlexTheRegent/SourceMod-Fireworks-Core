@@ -1,0 +1,463 @@
+"firework"
+{
+	"1"
+	{
+		"box_model"				"models/fireworks/box9_csgo.mdl"
+		"box_duration"			"8.0"
+		"box_origin"			"0.0 0.0 0.0"
+		
+		"launch_delay"			"1.0 6.0"
+		"launch_sound"			"fireworks/whistle1.mp3"
+		"launch_vel_x"			"-100.0 100.0"			// minus - on self, plus - away
+		"launch_vel_y"			"-100.0 100.0"			// minus - right, plus - left
+		"launch_vel_z"			"500.0 500.0"
+		
+		"trail_model"			""
+		"trail_particle"		"firework_trail_01"
+		"trail_color"			"255 255 255"
+		"trail_duration"		"2.0"
+		
+		"firework_particle"		"firework_classic_01_small"
+		"firework_color1"		"255 255 255"
+		"firework_color2"		"255 255 255"
+		"firework_sound"		"fireworks/clap1.mp3"
+		"firework_duration"		"8.0"
+	}
+	"2"
+	{
+		"box_model"				"models/fireworks/box9_csgo.mdl"
+		"box_duration"			"8.0"
+		"box_origin"			"0.0 0.0 0.0"
+		
+		"launch_delay"			"1.0 6.0"
+		"launch_sound"			"fireworks/whistle1.mp3"
+		"launch_vel_x"			"-100.0 100.0"			// minus - on self, plus - away
+		"launch_vel_y"			"-100.0 100.0"			// minus - right, plus - left
+		"launch_vel_z"			"500.0 500.0"
+		
+		"trail_model"			""
+		"trail_particle"		"firework_trail_01"
+		"trail_color"			"255 215 0"
+		"trail_duration"		"2.0"
+		
+		"firework_particle"		"firework_classic_01_small"
+		"firework_color1"		"255 20 147"
+		"firework_color2"		"255 255 255"
+		"firework_sound"		"fireworks/clap1.mp3"
+		"firework_duration"		"8.0"
+	}
+	"3"
+	{
+		"box_model"				"models/fireworks/box9_csgo.mdl"
+		"box_duration"			"8.0"
+		"box_origin"			"0.0 0.0 0.0"
+		
+		"launch_delay"			"1.0 6.0"
+		"launch_sound"			"fireworks/whistle1.mp3"
+		"launch_vel_x"			"-100.0 100.0"			// minus - on self, plus - away
+		"launch_vel_y"			"-100.0 100.0"			// minus - right, plus - left
+		"launch_vel_z"			"500.0 500.0"
+		
+		"trail_model"			""
+		"trail_particle"		"firework_trail_01"
+		"trail_color"			"255 20 147"
+		"trail_duration"		"2.0"
+		
+		"firework_particle"		"firework_classic_01_small"
+		"firework_color1"		"255 215 0"
+		"firework_color2"		"255 255 255"
+		"firework_sound"		"fireworks/clap1.mp3"
+		"firework_duration"		"8.0"
+	}
+	"4"
+	{
+		"box_model"				"models/fireworks/box9_csgo.mdl"
+		"box_duration"			"8.0"
+		"box_origin"			"0.0 0.0 0.0"
+		
+		"launch_delay"			"1.0 6.0"
+		"launch_sound"			"fireworks/whistle1.mp3"
+		"launch_vel_x"			"-100.0 100.0"			// minus - on self, plus - away
+		"launch_vel_y"			"-100.0 100.0"			// minus - right, plus - left
+		"launch_vel_z"			"500.0 500.0"
+		
+		"trail_model"			""
+		"trail_particle"		"firework_trail_01"
+		"trail_color"			"0 255 0"
+		"trail_duration"		"2.0"
+		
+		"firework_particle"		"firework_classic_01_small"
+		"firework_color1"		"0 0 255"
+		"firework_color2"		"255 255 255"
+		"firework_sound"		"fireworks/clap1.mp3"
+		"firework_duration"		"8.0"
+	}
+	"5"
+	{
+		"box_model"				"models/fireworks/box9_csgo.mdl"
+		"box_duration"			"8.0"
+		"box_origin"			"0.0 0.0 0.0"
+		
+		"launch_delay"			"1.0 6.0"
+		"launch_sound"			"fireworks/whistle1.mp3"
+		"launch_vel_x"			"-100.0 100.0"			// minus - on self, plus - away
+		"launch_vel_y"			"-100.0 100.0"			// minus - right, plus - left
+		"launch_vel_z"			"500.0 500.0"
+		
+		"trail_model"			""
+		"trail_particle"		"firework_trail_01"
+		"trail_color"			"0 0 255"
+		"trail_duration"		"2.0"
+		
+		"firework_particle"		"firework_classic_01_small"
+		"firework_color1"		"0 255 0"
+		"firework_color2"		"255 255 255"
+		"firework_sound"		"fireworks/clap1.mp3"
+		"firework_duration"		"8.0"
+	}
+	"6"
+	{
+		"box_model"				"models/fireworks/box9_csgo.mdl"
+		"box_duration"			"8.0"
+		"box_origin"			"0.0 0.0 0.0"
+		
+		"launch_delay"			"1.0 6.0"
+		"launch_sound"			"fireworks/whistle1.mp3"
+		"launch_vel_x"			"-100.0 100.0"			// minus - on self, plus - away
+		"launch_vel_y"			"-100.0 100.0"			// minus - right, plus - left
+		"launch_vel_z"			"500.0 500.0"
+		
+		"trail_model"			""
+		"trail_particle"		"firework_trail_01"
+		"trail_color"			"255 0 0"
+		"trail_duration"		"2.0"
+		
+		"firework_particle"		"firework_classic_01_small"
+		"firework_color1"		"255 255 255"
+		"firework_color2"		"255 255 255"
+		"firework_sound"		"fireworks/clap1.mp3"
+		"firework_duration"		"8.0"
+	}
+	"7"
+	{
+		"box_model"				"models/fireworks/box9_csgo.mdl"
+		"box_duration"			"8.0"
+		"box_origin"			"0.0 0.0 0.0"
+		
+		"launch_delay"			"1.0 6.0"
+		"launch_sound"			"fireworks/whistle1.mp3"
+		"launch_vel_x"			"-100.0 100.0"			// minus - on self, plus - away
+		"launch_vel_y"			"-100.0 100.0"			// minus - right, plus - left
+		"launch_vel_z"			"500.0 500.0"
+		
+		"trail_model"			""
+		"trail_particle"		"firework_trail_01"
+		"trail_color"			"255 255 255"
+		"trail_duration"		"2.0"
+		
+		"firework_particle"		"firework_classic_01_small"
+		"firework_color1"		"255 0 0"
+		"firework_color2"		"255 255 255"
+		"firework_sound"		"fireworks/clap1.mp3"
+		"firework_duration"		"8.0"
+	}
+	"8"
+	{
+		"box_model"				"models/fireworks/box9_csgo.mdl"
+		"box_duration"			"8.0"
+		"box_origin"			"0.0 0.0 0.0"
+		
+		"launch_delay"			"1.0 6.0"
+		"launch_sound"			"fireworks/whistle1.mp3"
+		"launch_vel_x"			"-100.0 100.0"			// minus - on self, plus - away
+		"launch_vel_y"			"-100.0 100.0"			// minus - right, plus - left
+		"launch_vel_z"			"500.0 500.0"
+		
+		"trail_model"			""
+		"trail_particle"		"firework_trail_01"
+		"trail_color"			"255 0 255"
+		"trail_duration"		"2.0"
+		
+		"firework_particle"		"firework_classic_01_small"
+		"firework_color1"		"0 255 255"
+		"firework_color2"		"255 255 255"
+		"firework_sound"		"fireworks/clap1.mp3"
+		"firework_duration"		"8.0"
+	}
+	"9"
+	{
+		"box_model"				"models/fireworks/box9_csgo.mdl"
+		"box_duration"			"8.0"
+		"box_origin"			"0.0 0.0 0.0"
+		
+		"launch_delay"			"1.0 6.0"
+		"launch_sound"			"fireworks/whistle1.mp3"
+		"launch_vel_x"			"-100.0 100.0"			// minus - on self, plus - away
+		"launch_vel_y"			"-100.0 100.0"			// minus - right, plus - left
+		"launch_vel_z"			"500.0 500.0"
+		
+		"trail_model"			""
+		"trail_particle"		"firework_trail_01"
+		"trail_color"			"0 255 255"
+		"trail_duration"		"2.0"
+		
+		"firework_particle"		"firework_classic_01_small"
+		"firework_color1"		"255 0 255"
+		"firework_color2"		"255 255 255"
+		"firework_sound"		"fireworks/clap1.mp3"
+		"firework_duration"		"8.0"
+	}
+	"10"
+	{
+		"box_model"				"models/fireworks/box9_csgo.mdl"
+		"box_duration"			"8.0"
+		"box_origin"			"0.0 0.0 0.0"
+		
+		"launch_delay"			"1.0 6.0"
+		"launch_sound"			"fireworks/whistle1.mp3"
+		"launch_vel_x"			"-100.0 100.0"			// minus - on self, plus - away
+		"launch_vel_y"			"-100.0 100.0"			// minus - right, plus - left
+		"launch_vel_z"			"500.0 500.0"
+		
+		"trail_model"			""
+		"trail_particle"		"firework_trail_01"
+		"trail_color"			"205 92 92"
+		"trail_duration"		"2.0"
+		
+		"firework_particle"		"firework_classic_01_small"
+		"firework_color1"		"205 92 92"
+		"firework_color2"		"255 255 255"
+		"firework_sound"		"fireworks/clap1.mp3"
+		"firework_duration"		"8.0"
+	}
+	"1"
+	{
+		"box_model"				"models/fireworks/box9_csgo.mdl"
+		"box_duration"			"8.0"
+		"box_origin"			"0.0 0.0 0.0"
+		
+		"launch_delay"			"1.0 6.0"
+		"launch_sound"			"fireworks/whistle1.mp3"
+		"launch_vel_x"			"-100.0 100.0"			// minus - on self, plus - away
+		"launch_vel_y"			"-100.0 100.0"			// minus - right, plus - left
+		"launch_vel_z"			"500.0 500.0"
+		
+		"trail_model"			""
+		"trail_particle"		"firework_trail_01"
+		"trail_color"			"255 255 255"
+		"trail_duration"		"2.0"
+		
+		"firework_particle"		"firework_classic_01_small"
+		"firework_color1"		"255 255 255"
+		"firework_color2"		"255 255 255"
+		"firework_sound"		"fireworks/clap1.mp3"
+		"firework_duration"		"8.0"
+	}
+	"2"
+	{
+		"box_model"				"models/fireworks/box9_csgo.mdl"
+		"box_duration"			"8.0"
+		"box_origin"			"0.0 0.0 0.0"
+		
+		"launch_delay"			"1.0 6.0"
+		"launch_sound"			"fireworks/whistle1.mp3"
+		"launch_vel_x"			"-100.0 100.0"			// minus - on self, plus - away
+		"launch_vel_y"			"-100.0 100.0"			// minus - right, plus - left
+		"launch_vel_z"			"500.0 500.0"
+		
+		"trail_model"			""
+		"trail_particle"		"firework_trail_01"
+		"trail_color"			"255 215 0"
+		"trail_duration"		"2.0"
+		
+		"firework_particle"		"firework_classic_01_small"
+		"firework_color1"		"255 20 147"
+		"firework_color2"		"255 255 255"
+		"firework_sound"		"fireworks/clap1.mp3"
+		"firework_duration"		"8.0"
+	}
+	"3"
+	{
+		"box_model"				"models/fireworks/box9_csgo.mdl"
+		"box_duration"			"8.0"
+		"box_origin"			"0.0 0.0 0.0"
+		
+		"launch_delay"			"1.0 6.0"
+		"launch_sound"			"fireworks/whistle1.mp3"
+		"launch_vel_x"			"-100.0 100.0"			// minus - on self, plus - away
+		"launch_vel_y"			"-100.0 100.0"			// minus - right, plus - left
+		"launch_vel_z"			"500.0 500.0"
+		
+		"trail_model"			""
+		"trail_particle"		"firework_trail_01"
+		"trail_color"			"255 20 147"
+		"trail_duration"		"2.0"
+		
+		"firework_particle"		"firework_classic_01_small"
+		"firework_color1"		"255 215 0"
+		"firework_color2"		"255 255 255"
+		"firework_sound"		"fireworks/clap1.mp3"
+		"firework_duration"		"8.0"
+	}
+	"4"
+	{
+		"box_model"				"models/fireworks/box9_csgo.mdl"
+		"box_duration"			"8.0"
+		"box_origin"			"0.0 0.0 0.0"
+		
+		"launch_delay"			"1.0 6.0"
+		"launch_sound"			"fireworks/whistle1.mp3"
+		"launch_vel_x"			"-100.0 100.0"			// minus - on self, plus - away
+		"launch_vel_y"			"-100.0 100.0"			// minus - right, plus - left
+		"launch_vel_z"			"500.0 500.0"
+		
+		"trail_model"			""
+		"trail_particle"		"firework_trail_01"
+		"trail_color"			"0 255 0"
+		"trail_duration"		"2.0"
+		
+		"firework_particle"		"firework_classic_01_small"
+		"firework_color1"		"0 0 255"
+		"firework_color2"		"255 255 255"
+		"firework_sound"		"fireworks/clap1.mp3"
+		"firework_duration"		"8.0"
+	}
+	"5"
+	{
+		"box_model"				"models/fireworks/box9_csgo.mdl"
+		"box_duration"			"8.0"
+		"box_origin"			"0.0 0.0 0.0"
+		
+		"launch_delay"			"1.0 6.0"
+		"launch_sound"			"fireworks/whistle1.mp3"
+		"launch_vel_x"			"-100.0 100.0"			// minus - on self, plus - away
+		"launch_vel_y"			"-100.0 100.0"			// minus - right, plus - left
+		"launch_vel_z"			"500.0 500.0"
+		
+		"trail_model"			""
+		"trail_particle"		"firework_trail_01"
+		"trail_color"			"0 0 255"
+		"trail_duration"		"2.0"
+		
+		"firework_particle"		"firework_classic_01_small"
+		"firework_color1"		"0 255 0"
+		"firework_color2"		"255 255 255"
+		"firework_sound"		"fireworks/clap1.mp3"
+		"firework_duration"		"8.0"
+	}
+	"6"
+	{
+		"box_model"				"models/fireworks/box9_csgo.mdl"
+		"box_duration"			"8.0"
+		"box_origin"			"0.0 0.0 0.0"
+		
+		"launch_delay"			"1.0 6.0"
+		"launch_sound"			"fireworks/whistle1.mp3"
+		"launch_vel_x"			"-100.0 100.0"			// minus - on self, plus - away
+		"launch_vel_y"			"-100.0 100.0"			// minus - right, plus - left
+		"launch_vel_z"			"500.0 500.0"
+		
+		"trail_model"			""
+		"trail_particle"		"firework_trail_01"
+		"trail_color"			"255 0 0"
+		"trail_duration"		"2.0"
+		
+		"firework_particle"		"firework_classic_01_small"
+		"firework_color1"		"255 255 255"
+		"firework_color2"		"255 255 255"
+		"firework_sound"		"fireworks/clap1.mp3"
+		"firework_duration"		"8.0"
+	}
+	"7"
+	{
+		"box_model"				"models/fireworks/box9_csgo.mdl"
+		"box_duration"			"8.0"
+		"box_origin"			"0.0 0.0 0.0"
+		
+		"launch_delay"			"1.0 6.0"
+		"launch_sound"			"fireworks/whistle1.mp3"
+		"launch_vel_x"			"-100.0 100.0"			// minus - on self, plus - away
+		"launch_vel_y"			"-100.0 100.0"			// minus - right, plus - left
+		"launch_vel_z"			"500.0 500.0"
+		
+		"trail_model"			""
+		"trail_particle"		"firework_trail_01"
+		"trail_color"			"255 255 255"
+		"trail_duration"		"2.0"
+		
+		"firework_particle"		"firework_classic_01_small"
+		"firework_color1"		"255 0 0"
+		"firework_color2"		"255 255 255"
+		"firework_sound"		"fireworks/clap1.mp3"
+		"firework_duration"		"8.0"
+	}
+	"8"
+	{
+		"box_model"				"models/fireworks/box9_csgo.mdl"
+		"box_duration"			"8.0"
+		"box_origin"			"0.0 0.0 0.0"
+		
+		"launch_delay"			"1.0 6.0"
+		"launch_sound"			"fireworks/whistle1.mp3"
+		"launch_vel_x"			"-100.0 100.0"			// minus - on self, plus - away
+		"launch_vel_y"			"-100.0 100.0"			// minus - right, plus - left
+		"launch_vel_z"			"500.0 500.0"
+		
+		"trail_model"			""
+		"trail_particle"		"firework_trail_01"
+		"trail_color"			"255 0 255"
+		"trail_duration"		"2.0"
+		
+		"firework_particle"		"firework_classic_01_small"
+		"firework_color1"		"0 255 255"
+		"firework_color2"		"255 255 255"
+		"firework_sound"		"fireworks/clap1.mp3"
+		"firework_duration"		"8.0"
+	}
+	"9"
+	{
+		"box_model"				"models/fireworks/box9_csgo.mdl"
+		"box_duration"			"8.0"
+		"box_origin"			"0.0 0.0 0.0"
+		
+		"launch_delay"			"1.0 6.0"
+		"launch_sound"			"fireworks/whistle1.mp3"
+		"launch_vel_x"			"-100.0 100.0"			// minus - on self, plus - away
+		"launch_vel_y"			"-100.0 100.0"			// minus - right, plus - left
+		"launch_vel_z"			"500.0 500.0"
+		
+		"trail_model"			""
+		"trail_particle"		"firework_trail_01"
+		"trail_color"			"0 255 255"
+		"trail_duration"		"2.0"
+		
+		"firework_particle"		"firework_classic_01_small"
+		"firework_color1"		"255 0 255"
+		"firework_color2"		"255 255 255"
+		"firework_sound"		"fireworks/clap1.mp3"
+		"firework_duration"		"8.0"
+	}
+	"10"
+	{
+		"box_model"				"models/fireworks/box9_csgo.mdl"
+		"box_duration"			"8.0"
+		"box_origin"			"0.0 0.0 0.0"
+		
+		"launch_delay"			"1.0 6.0"
+		"launch_sound"			"fireworks/whistle1.mp3"
+		"launch_vel_x"			"-100.0 100.0"			// minus - on self, plus - away
+		"launch_vel_y"			"-100.0 100.0"			// minus - right, plus - left
+		"launch_vel_z"			"500.0 500.0"
+		
+		"trail_model"			""
+		"trail_particle"		"firework_trail_01"
+		"trail_color"			"205 92 92"
+		"trail_duration"		"2.0"
+		
+		"firework_particle"		"firework_classic_01_small"
+		"firework_color1"		"205 92 92"
+		"firework_color2"		"255 255 255"
+		"firework_sound"		"fireworks/clap1.mp3"
+		"firework_duration"		"8.0"
+	}
+}

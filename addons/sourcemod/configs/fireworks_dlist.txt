@@ -1,0 +1,85 @@
+// put files to download to this file
+
+// ==============================================================================================================================
+// >>> PARTICLES
+// ==============================================================================================================================
+particles/fireworks_01b.pcf
+particles/fireworks_01b_small.pcf
+particles/fireworks_trails_01b.pcf
+
+// ==============================================================================================================================
+// >>> MODELS
+// ==============================================================================================================================
+// box 1 charge
+materials/models/fireworks/csgo.vmt
+materials/models/fireworks/csgo.vtf
+models/fireworks/box_csgo.mdl
+models/fireworks/box_csgo.phy
+models/fireworks/box_csgo.vvd
+models/fireworks/box_csgo.dx80.vtx
+models/fireworks/box_csgo.dx90.vtx
+models/fireworks/box_csgo.sw.vtx
+
+// box 9 charges
+materials/models/fireworks/csgo.vmt
+materials/models/fireworks/csgo.vtf
+models/fireworks/box9_csgo.mdl
+models/fireworks/box9_csgo.phy
+models/fireworks/box9_csgo.vvd
+models/fireworks/box9_csgo.dx80.vtx
+models/fireworks/box9_csgo.dx90.vtx
+models/fireworks/box9_csgo.sw.vtx
+
+// blue rocket
+materials/models/fireworks/blue.vmt
+materials/models/fireworks/blue.vtf
+materials/models/fireworks/blueline.vmt
+materials/models/fireworks/blueline.vtf
+materials/models/fireworks/black.vmt
+materials/models/fireworks/black.vtf
+models/fireworks/fire_blue.mdl
+models/fireworks/fire_blue.phy
+models/fireworks/fire_blue.vvd
+models/fireworks/fire_blue.dx80.vtx
+models/fireworks/fire_blue.dx90.vtx
+models/fireworks/fire_blue.sw.vtx
+
+// green rocket
+materials/models/fireworks/green.vmt
+materials/models/fireworks/green.vtf
+materials/models/fireworks/greenline.vmt
+materials/models/fireworks/greenline.vtf
+materials/models/fireworks/black.vmt
+materials/models/fireworks/black.vtf
+models/fireworks/fire_green.mdl
+models/fireworks/fire_green.phy
+models/fireworks/fire_green.vvd
+models/fireworks/fire_green.dx80.vtx
+models/fireworks/fire_green.dx90.vtx
+models/fireworks/fire_green.sw.vtx
+
+// red rocket
+materials/models/fireworks/red.vmt
+materials/models/fireworks/red.vtf
+materials/models/fireworks/redline.vmt
+materials/models/fireworks/redline.vtf
+materials/models/fireworks/black.vmt
+materials/models/fireworks/black.vtf
+models/fireworks/fire_red.mdl
+models/fireworks/fire_red.phy
+models/fireworks/fire_red.vvd
+models/fireworks/fire_red.dx80.vtx
+models/fireworks/fire_red.dx90.vtx
+models/fireworks/fire_red.sw.vtx
+
+// ==============================================================================================================================
+// >>> SOUNDS
+// ==============================================================================================================================
+// clap sounds
+sound/fireworks/clap1.mp3
+
+// whistle sounds
+sound/fireworks/whistle1.mp3
+
+// explosion sounds
+sound/fireworks/explosion1.mp3
