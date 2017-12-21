@@ -1,4 +1,5 @@
 // put files to download to this file
+// required files will be precached automatically
 
 // ==============================================================================================================================
 // >>> PARTICLES
@@ -6,6 +7,7 @@
 particles/fireworks_01b.pcf
 particles/fireworks_01b_small.pcf
 particles/fireworks_trails_01b.pcf
+particles/fountains_01.pcf
 
 // ==============================================================================================================================
 // >>> MODELS
