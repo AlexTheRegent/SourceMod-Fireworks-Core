@@ -336,6 +336,7 @@ PrepareRocket(const Handle:hRocketData, const Float:vCenterOrigin[3], const Floa
 		new iLauncher = SpawnPropByOrigin(sModel, "prop_physics_override", vSpawnOrigin);
 		SetEntityMoveType(iLauncher, MOVETYPE_NOCLIP);
 		SetEntityRenderMode(iLauncher, RENDER_TRANSCOLOR);
+		SetEntProp(iLauncher, Prop_Data, "m_nSolidType", 1);
 		// for debug purposes
 		// SetEntityRenderColor(iLauncher, 255, 255, 255, 120);
 		
